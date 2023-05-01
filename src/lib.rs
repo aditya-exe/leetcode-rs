@@ -1,1 +1,2 @@
 mod two_sum;
+mod average_salary_excluding_maximum_and_minimum;
