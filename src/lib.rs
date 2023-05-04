@@ -6,3 +6,4 @@ mod is_strictly_palindromic;
 mod deepest_leaves_sum;
 mod array_sign;
 mod find_difference;
+mod predict_party_victory;
