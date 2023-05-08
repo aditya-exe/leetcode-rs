@@ -9,3 +9,5 @@ mod find_difference;
 mod predict_party_victory;
 mod max_vowels;
 mod num_subseq;
+mod longest_obstacle_course_at_each_position;
+mod diagonal_sum;
