@@ -12,3 +12,6 @@ mod num_subseq;
 mod longest_obstacle_course_at_each_position;
 mod diagonal_sum;
 mod spiral_order;
+mod generate_matrix;
+mod max_uncrossed_lines;
+mod most_points;
