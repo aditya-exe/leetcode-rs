@@ -15,3 +15,4 @@ mod spiral_order;
 mod generate_matrix;
 mod max_uncrossed_lines;
 mod most_points;
+mod count_good_strings;
