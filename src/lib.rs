@@ -16,3 +16,6 @@ mod generate_matrix;
 mod max_uncrossed_lines;
 mod most_points;
 mod count_good_strings;
+mod max_score;
+mod swap_nodes;
+mod swap_pairs;
