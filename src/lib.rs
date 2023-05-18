@@ -19,3 +19,5 @@ mod count_good_strings;
 mod max_score;
 mod swap_nodes;
 mod swap_pairs;
+mod pair_sum;
+mod find_smallest_set_of_vertices;
