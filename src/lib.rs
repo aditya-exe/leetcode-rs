@@ -24,3 +24,7 @@ mod find_smallest_set_of_vertices;
 mod is_bipartite;
 mod calc_equation;
 mod shortest_bridge;
+mod kth_largest;
+mod min_depth;
+mod distance_k;
+mod eventual_safe_nodes;
