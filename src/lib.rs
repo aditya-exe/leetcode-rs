@@ -28,3 +28,4 @@ mod kth_largest;
 mod min_depth;
 mod distance_k;
 mod eventual_safe_nodes;
+mod can_finish;
