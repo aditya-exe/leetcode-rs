@@ -38,3 +38,5 @@ mod count_and_say;
 mod is_anagram;
 mod count_characters;
 mod food_ratings;
+mod buy_choco;
+mod max_score2;
