@@ -40,3 +40,4 @@ mod count_characters;
 mod food_ratings;
 mod buy_choco;
 mod max_score2;
+mod is_path_crossing;
